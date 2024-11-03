@@ -5,6 +5,7 @@ This month-long journey is all about learning and enhancing your HTML, CSS, and 
 I started this a teacher to teach me HTML, CSS, and javascript!
 so im challenging myself!
 
+# Days
 
 Day 1 - https://femgramgd.github.io/Day-1-Clicker-Game/
 
