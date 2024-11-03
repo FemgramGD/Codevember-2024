@@ -7,4 +7,5 @@ so im challenging myself!
 
 
 Day 1 - https://femgramgd.github.io/Day-1-Clicker-Game/
+
 Day 2 - https://femgramgd.github.io/Day-2-Color-Switcher/
